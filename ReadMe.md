@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning : Network, C, Linux<br>💬 I am Enver, a student of the information security department. I am currently learning the C programming language. At the same time, I work on Network and Cyber ​​security.
+🌱 I’m currently learning : Network, C,Cyber Security <br>💬 I am Enver, a student of the information security department. I am currently learning the C programming language. At the same time, I work on Network and Cyber ​​security.
 
 
 ## 🌐 Socials:
